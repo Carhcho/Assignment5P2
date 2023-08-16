@@ -1,0 +1,4 @@
+This file contains
+several words and lines
+to be found by the program
+please work!
